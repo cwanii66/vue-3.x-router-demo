@@ -1,0 +1,20 @@
+{
+  "name": "vue-3.x-router-demo",
+  "version": "1.0.0",
+  "description": "vue-router demo",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwluvani/vue-3.x-router-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwluvani/vue-3.x-router-demo/issues"
+  },
+  "homepage": "https://github.com/cwluvani/vue-3.x-router-demo#readme"
+}
